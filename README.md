@@ -221,3 +221,8 @@ Please ensure compliance with local medical software regulations.
 * Hugging Face Transformers library
 * Brain MRI dataset contributors
 * Open-source computer vision community
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/94539f62-a3d2-4777-b512-fa7a2d48f54c
+
