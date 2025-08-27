@@ -224,5 +224,5 @@ Please ensure compliance with local medical software regulations.
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/94539f62-a3d2-4777-b512-fa7a2d48f54c
+https://github.com/user-attachments/assets/18942419-b0f1-4362-b07e-67c6d817a360
 
