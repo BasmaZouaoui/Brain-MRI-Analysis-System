@@ -16,17 +16,6 @@ This system uses a fine-tuned Vision Transformer model to classify brain MRI ima
 
 ---
 
-## Project Structure
-
-```
-brain-mri-analysis/
-├── finetuning_vit.ipynb    # Model training notebook
-├── app.py                  # Clinical web interface
-├── README.md               # Project documentation
-```
-
----
-
 ## Features
 
 ### Dataset
